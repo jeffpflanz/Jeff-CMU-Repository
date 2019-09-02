@@ -1,5 +1,5 @@
 # Jeff Pflanz @ Heinz College : 
-## Repository Page for Telling Stories with Data, Fall 2019 
+#### Repository Page for Telling Stories with Data, Fall 2019 
 
 # About Me
 
