@@ -1,5 +1,7 @@
-# Jeff Pflanz @ Heinz College : 
+# Jeff Pflanz @ Heinz College, Carnegie Mellon University
 #### Repository Page for Telling Stories with Data, Fall 2019 
+
+
 
 
 # About Me
