@@ -4,7 +4,7 @@
 
 
 
-# About Me
+## About Me
 
 I am currently a Master of Science candidate at Carnegie Mellon’s Heinz College of Public Policy and Management (expected graduation: December 2019). I have three years of experience working in international affairs, with expertise in data analytics, geographic information systems (GIS), program evaluation, and grant consulting/project management.
 
@@ -14,7 +14,7 @@ You can learn more about me and my experiences at my [LinkedIn page](https://www
 
 *Not the best at handwriting / handrawing... best to learn how to visualize data with technology* 
 
-# What I Hope To Learn 
+## What I Hope To Learn 
 
 After doing some of the initial work, I am learning that I have a very poor sense of good color schemes and how to adjust colors/charts according to a given narrative. I simply want more and more practice of being given an idea/trend and learning how to display it with the correct mode and colors. 
 
@@ -23,6 +23,6 @@ Moreover, I want to continue to learn about the various online (open source) res
 I simply want to practice, practice, [practice](https://www.youtube.com/watch?v=L29cuziRazU) taking raw requests / narratives and learning how to best visualize it. The exercises in the readings are a good start. 
 
 
-# Portfolio
+## Portfolio
 
-(placeholder) 
+#### [Assignment 2](/dataviz2.md)
