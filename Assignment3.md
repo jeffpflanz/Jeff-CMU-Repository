@@ -1,5 +1,16 @@
 #Assignment 3 
 
+
+https://fivethirtyeight.com/wp-content/uploads/2016/01/morris-kicking-11.png?w=1150
+
+
+[![Google Logo](/images/google.png)](https://google.com)
+In the end, I concluded simplicity is better. 
+
+
+The context of this graph can be found in this article: "The Haters Are Losing The War On Kickers" (January 2016). 
+The re-created data from the original 538 graph is downloadable below. 
+
 <iframe title="Kickers Are Taking Longer Attempts Than Ever:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;Today's kickers are bigger and stronger...&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" aria-label="Interactive line chart" id="datawrapper-chart-oxZb1" src="//datawrapper.dwcdn.net/oxZb1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 <iframe title="&quot;...and increasingly more accurate&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" aria-label="Interactive line chart" id="datawrapper-chart-j6pEU" src="//datawrapper.dwcdn.net/j6pEU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
