@@ -6,6 +6,8 @@ The re-created data from the original 538 graph is downloadable below.
 
 ![538 Kickers](https://fivethirtyeight.com/wp-content/uploads/2016/01/morris-kicking-11.png)
 
+[<img src="./wp-content/uploads/2016/01/morris-kicking-11.png" alt="538" width="50%">](https://fivethirtyeight.com)
+
 ## Criticism 
 
 The original graph is above. As I mentioned in my feedback, something just did not sit right with me - it felt like two graphs were being forced together. The line connecting the different data "year" points wasn't informative. And, as we learned in week 2, the title/subtitle did not add to the visualization - it was actually just repeating information found on the axes. 
