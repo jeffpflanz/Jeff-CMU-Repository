@@ -1,4 +1,4 @@
-#Assignment 3 
+# Assignment 3 
 
 
 The context of this graph can be found in this article: "The Haters Are Losing The War On Kickers" (January 2016). 
@@ -6,9 +6,15 @@ The re-created data from the original 538 graph is downloadable below.
 
 https://fivethirtyeight.com/wp-content/uploads/2016/01/morris-kicking-11.png?w=1150
 
+![538 Kickers](https://fivethirtyeight.com/wp-content/uploads/2016/01/morris-kicking-11.png?w=1150)
+
+## Criticism 
+
 The original graph is above. As I mentioned in my feedback, something just did not sit right with me - it felt like two graphs were being forced together. The line connecting the different data "year" points wasn't informative. And, as we learned in week 2, the title/subtitle did not add to the visualization - it was actually just repeating information found on the axes. 
 
 My main task was to try to design/sketch wireframes that contained all of this information. I started with the simplest solution - two line graphs stacked - with year vs distance and year vs field goal simplicity. Then I tried *numerous* other graphs - area charts, line chart with two lines, grouped columns, something I learned was called "bullet bars." I kept running into the same problem - there wasn't an easy way to convey something like time (x-axis) versus two measures that had variance in a very short window - distance in yards (~36-38 range) and field goal percentage (78-86). After showing my roommates my options and running through the questions, they more or less reflected my concerns - that I was trying to force this information together and it might make sense to break it up. One even suggested simply taking out the connecting line out of the 538 graph and just leave the scatter plot. 
+
+## Re-kick 
 
 With that feedback, I tried to experiment a little with DataWrapper and Tableau to see if there were any visual approaches that I was missing. I took about an hour to experiment, but to no avail. In the end, I concluded simplicity is better - and will fully admit that this approach is not that much more informative than a simple table. I tried to incorporate the more nuanced things about data viz, like changing the chart title to reflect more of a story - and not just repeating the axis labels.
 
