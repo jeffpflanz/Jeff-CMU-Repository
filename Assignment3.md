@@ -1,10 +1,8 @@
 # Assignment 3 
 
 
-The context of this graph can be found in this article: "The Haters Are Losing The War On Kickers" (January 2016). 
+The context of this graph can be found in this article: ["The Haters Are Losing The War On Kickers"](https://fivethirtyeight.com/wp-content/uploads/2016/01/morris-kicking-11.png?w=1150) (January 2016). 
 The re-created data from the original 538 graph is downloadable below. 
-
-https://fivethirtyeight.com/wp-content/uploads/2016/01/morris-kicking-11.png?w=1150
 
 ![538 Kickers](https://fivethirtyeight.com/wp-content/uploads/2016/01/morris-kicking-11.png)
 
