@@ -27,3 +27,4 @@ I simply want to practice, practice, [practice](https://www.youtube.com/watch?v=
 
 #### [Alluvial Diagram - Would You Have Survived The Sinking Of The Titanic?](/titanic.md)
 #### [Assignment 2](/dataviz2.md)
+#### [Assignment 3: "Re-kick"](/assignment3.md)
