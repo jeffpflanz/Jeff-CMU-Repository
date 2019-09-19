@@ -6,7 +6,7 @@ The re-created data from the original 538 graph is downloadable below.
 
 ![538 Kickers](https://fivethirtyeight.com/wp-content/uploads/2016/01/morris-kicking-11.png)
 
-[<img src="./wp-content/uploads/2016/01/morris-kicking-11.png" alt="538" width="50%">](https://fivethirtyeight.com)
+[<img src="/wp-content/uploads/2016/01/morris-kicking-11.png" alt="538" width="50%">](https://fivethirtyeight.com)
 
 ## Criticism 
 
