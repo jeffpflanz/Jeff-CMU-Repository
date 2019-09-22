@@ -8,7 +8,8 @@ Despite all criticism, Iowa remains “first” in line – this project seeks t
 
 This project will show how Iowa, fairly or unfairly, winnows the field. Though the project will evaluate how the campaigns of the “winners” of Iowa have panned out, more focus will be on those who finish outside the top tier. I hope to emphasize that doing well in Iowa really does matter – and that finishing outside the top four has historically spelled doom. In terms of the 2020 contest - I aim to show that if your candidate has not risen above in Iowa, you need to consider putting in your time/effort/money in sooner than later.
 
-How project will be completed: Data visualizations will be made from data (discussed below) using various platforms learned in class - whatever works best for a particular visualization (I anticipate using RAWGraphs to make the alluvial diagram). The final product / presentation will be hosted on Shorthand. 
+### How project will be completed: 
+Data visualizations will be made from data (discussed below) using various platforms learned in class - whatever works best for a particular visualization (I anticipate using RAWGraphs to make the alluvial diagram). Depending on the data I am still looking to acquire, I may incorporate some GIS. It will be using the general story structure I ownline below. The final product / presentation will be hosted on Shorthand. 
 
 ### (Draft) Story Outline: 
 (1) Brief history of the Caucus, how it works 
@@ -23,7 +24,7 @@ How project will be completed: Data visualizations will be made from data (discu
 
 ### Data (Draft) 
 
-I have compiled data from a few sources - the initial Caucus data was largely scraped from [this document](http://caucuses.desmoinesregister.com/caucus-history-past-years-results/) produced by the Des Moines Register in 2012 using Tabula. Data after 2008 was appended from [this](http://data.desmoinesregister.com/iowa-caucus/history/index.php#2016/gop/co/palo-alto) Des Moines Register source. [538](https://projects.fivethirtyeight.com/2020-primaries/democratic/iowa/) and [RealClearPolitics](https://www.realclearpolitics.com/epolls/2020/president/ia/iowa_democratic_presidential_caucus-6731.html) have good information on the current state of the race in Iowa. I will have to do some research to confirm/code the eventual fates of select campaigns. As far as mapping the demographics of Iowa - TBD . Currently waiting to see if I can get some data that was taken down from the Des Moines Register website. I also welcome any suggestions you may have. 
+I have compiled data from a few sources - the initial Caucus data was largely scraped from [this document](http://caucuses.desmoinesregister.com/caucus-history-past-years-results/) produced by the Des Moines Register in 2012 using Tabula. Data after 2008 was appended from [this](http://data.desmoinesregister.com/iowa-caucus/history/index.php#2016/gop/co/palo-alto) Des Moines Register source. [538](https://projects.fivethirtyeight.com/2020-primaries/democratic/iowa/) and [RealClearPolitics](https://www.realclearpolitics.com/epolls/2020/president/ia/iowa_democratic_presidential_caucus-6731.html) have good information on the current state of the race in Iowa. I will have to do some research to confirm/code the eventual fates of select campaigns. As far as mapping the demographics of Iowa - I can compare [data of Iowa](https://www.census.gov/quickfacts/IA) with the [USA generally](https://www.census.gov/quickfacts/usa) using US Census Data. Currently waiting to see if I can get some data that was taken down from the Des Moines Register website. I also welcome any suggestions you may have. 
 
 
 [Back](https://jeffpflanz.github.io/Jeff-CMU-Repository/)
