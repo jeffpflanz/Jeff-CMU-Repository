@@ -22,6 +22,7 @@ Data visualizations will be made from data (discussed below) using various platf
 
 ### Sketches 
 [![try](/IMG_20190922_210929080.jpg)](https://jeffpflanz.github.io/Jeff-CMU-Repository)
+[<img src="./IMG_20190922_210929080.jpg" alt="try" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
 
 IMG_20190922_210929080.jpg
 
