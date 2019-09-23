@@ -21,12 +21,16 @@ Data visualizations will be made from data (discussed below) using various platf
 (7) 2020 Call To Action: If your preferred candidate is not in the top tier, you might want to put in the work / donate before Iowa. 
 
 ### Sketches 
-[![try](/IMG_20190922_210929080.jpg)](https://jeffpflanz.github.io/Jeff-CMU-Repository)
-[<img src="./IMG_20190922_210929080.jpg" alt="try" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
 
-IMG_20190922_210929080.jpg
+[<img src="./IMG_20190922_210929080.jpg" alt="Pic1" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
 
-IMG_20190922_210929080 (2).jpg
+[<img src="./IMG_20190922_210929080 (1).jpg" alt="Pic2" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
+
+[<img src="./IMG_20190922_210929080 (2).jpg" alt="Pic3" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
+
+[<img src="./IMG_20190922_210929080 (3).jpg" alt="Pic4" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
+
+
 
 ### Data (Draft) 
 
