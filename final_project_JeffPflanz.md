@@ -21,6 +21,8 @@ Data visualizations will be made from data (discussed below) using various platf
 (7) 2020 Call To Action: If your preferred candidate is not in the top tier, you might want to put in the work / donate before Iowa. 
 
 ### Sketches 
+[![try](/Jeff-CMU-Repository/IMG_20190922_210929080.jpg)](https://jeffpflanz.github.io)
+
 IMG_20190922_210929080.jpg
 
 IMG_20190922_210929080 (2).jpg
