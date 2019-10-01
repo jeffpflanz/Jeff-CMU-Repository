@@ -1,5 +1,5 @@
 # Final Project
-## Project Proposal 
+## Part 1 - Project Proposal 
 
 ### Summary of Proposal: “Four Tickets Out” 
 Maybe it’s because I’m from Iowa, but I’ve always been very interested in presidential elections. Every four years, candidates descend on my home state to set up their political operations, eat various fried foods at the state fair, and, most importantly, pander. It is not news to anyone that the state of Iowa receives a disproportionate amount of attention from both presidential candidates and the media. Moreover, many outlets have drawn attention to how the population of Iowa is not representative of the core constituencies of both the Republican and Democratic parties. 
@@ -35,6 +35,10 @@ Data visualizations will be made from data (discussed below) using various platf
 ### Data (Draft) 
 
 I have compiled data from a few sources - initial Caucus data was largely scraped from [this document](http://caucuses.desmoinesregister.com/caucus-history-past-years-results/) produced by the Des Moines Register in 2012 using Tabula. Data after 2008 was appended from [this](http://data.desmoinesregister.com/iowa-caucus/history/index.php#2016/gop/co/palo-alto) Des Moines Register source. [538](https://projects.fivethirtyeight.com/2020-primaries/democratic/iowa/) and [RealClearPolitics](https://www.realclearpolitics.com/epolls/2020/president/ia/iowa_democratic_presidential_caucus-6731.html) have good information on the current state of the race in Iowa. I will have to do some research to confirm/code the eventual fates of select campaigns. As far as mapping the demographics of Iowa - I can compare [data of Iowa](https://www.census.gov/quickfacts/IA) with the [USA generally](https://www.census.gov/quickfacts/usa) using US Census Data. Currently waiting to see if I can get some data that was taken down from the Des Moines Register website. I also welcome any suggestions you may have. 
+
+-------------------------------------------------------------------------------------
+
+## Part 2 - Project Wireframes/Storyboards and User Research 
 
 
 [Back](https://jeffpflanz.github.io/Jeff-CMU-Repository/)
