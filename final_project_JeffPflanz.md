@@ -49,7 +49,7 @@ The above document details my draft layout of Shorthand (wireframe), many initia
 
 My visual storyboard is below (green color shows the additional data visualizations I intend to include - also inspired by user research discussions): 
 
-[<img src="./storyboard.jpg" alt="Pic4" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
+[<img src="./storyboard.jpg" alt="Pic5" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
 
 ### Recap of user research and incorporation of feedback 
 
@@ -63,6 +63,13 @@ Unfortunately, I feel limited by technology / my coding skills. There are some t
 
 All in all, I am glad I got feedback from three people - they each had at least a few unique suggestions. The discussions also made clear which visualizations I had to tweak in order to achieve the "immediate" story impact. 
 
+[<img src="./protocolnotes.jpg" alt="Pic6" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
+
+[<img src="./viz.jpg" alt="Pic7" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
+
+More specifically --- 
+
+[<img src="./feedbacksketch.jpg" alt="Pic8" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
 
 
 [Back](https://jeffpflanz.github.io/Jeff-CMU-Repository/)
