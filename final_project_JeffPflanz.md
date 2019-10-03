@@ -41,6 +41,7 @@ I have compiled data from a few sources - initial Caucus data was largely scrape
 ## Part 2 - Project Wireframes/Storyboards and User Research 
 
 ### Wireframe and Storyboard Detail
+
 Making wireframes and the storyboard really helped clarify the order of the story I want to tell. My approach to wireframing was perhaps more involved than it should be - I spent a lot of time compiling, editing, and building the data I needed. At that point, I thought I needed to develop online visualization drafts to get the feedback I wanted going into next week. After making my initial visualizations, I made a wireframe in Microsoft Word - trying to mimic the top-to-bottom Shorthand page that I intend to make next week. I intentionally did not add in many captions or descriptions - as I wanted my users to approach my visualizations without context. If they were confused, I was able to take notes about what I exactly needed to clarify. 
 
 [My wireframe / user research work is located here.](https://jeffpflanz.github.io/Jeff-CMU-Repository/WireframeWithEdits.pdf)
@@ -50,6 +51,10 @@ The above document details my draft layout of Shorthand (wireframe), many initia
 My visual storyboard is below (green color shows the additional data visualizations I intend to include - also inspired by user research discussions): 
 
 [<img src="./storyboard.jpg" alt="Pic5" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
+
+### Notes On Target Audience and Approach
+
+My target audience is anyone generally interested in presidential campaign / primary season – but lacks background/experience/knowledge on how the primary process works in the early states. My approach in identifying representatives to interview - I think I can safely say anyone at Heinz, a policy school, has some interest in electoral politics but won’t be “experts” about Iowa. I want to be sure to interview individuals outside our class, as I desire to get feedack from people without any background in data visualization and can reflect the thinking/concerns of the layperson target audience. 
 
 ### Recap of user research and incorporation of feedback 
 
