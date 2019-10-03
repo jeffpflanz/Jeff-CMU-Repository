@@ -40,7 +40,7 @@ I have compiled data from a few sources - initial Caucus data was largely scrape
 
 ## Part 2 - Project Wireframes/Storyboards and User Research 
 
-# Wireframe and Storyboard Detail
+### Wireframe and Storyboard Detail
 Making wireframes and the storyboard really helped clarify the order of the story I want to tell. My approach to wireframing was perhaps more involved than it should be - I spent a lot of time compiling, editing, and building the data I needed. At that point, I thought I needed to develop online visualization drafts to get the feedback I wanted going into next week. After making my initial visualizations, I made a wireframe in Microsoft Word - trying to replicate the top-to-bottom Shorthand page that I intend to make next week. I intentionally did not add in many captions or descriptions - as I wanted my users to approach my visualizations without context. If they were confused, I was able to take notes about what I exactly needed to clarify. 
 
 My wireframe work is located here. 
@@ -50,12 +50,17 @@ The above document details my draft layout of Shorthand (wireframe), many initia
 My visual storyboard is below (green color shows the additional data visualizations I intend to include - also inspired by user research discussions): 
 
 
-# Recap of user research
+### Recap of user research and incorporation of feedback 
 
-I took my project to three individuals outside of our class - Kevin, Christian, and Lauren. I made my wireframe in Microsoft Word so I could print out my visualizations in the order I desired. The physical copy also removed some of the bells and whistles (like being able to interact with the graphs, going to data points for details). 
+I took my project to three individuals outside of our class - let's call them K, C, and L. I made my wireframe in Microsoft Word so I could print out my visualizations in the order I desired. The physical copy also removed some of the bells and whistles (like being able to interact with the graphs, going to data points for details). 
 
-One regular observation was this - all three were not familiar with fluvial diagrams, so there was not an "immediate" impact. Once they took time to understand what was going on, they generally liked my approach. I eventually concluded to take out a step ("Survived After Iowa") because they seemed to think that layer didn't add much useful information. Kevin particularly focused on the need to add some missing details (like specific timeframes/dates, adding in some of the names of candidates, polls just focused on Iowa Caucus-goers).
+One regular observation was this - all three were not familiar with fluvial diagrams, so there was not an "immediate" impact. Once they took time to understand what was going on, they generally liked my approach. I eventually concluded to take out a step ("Survived After Iowa") because they seemed to think that layer didn't add much useful information. K particularly focused on the need to add some missing details (like specific timeframes/dates, adding in some of the names of candidates, polls just focused on Iowa Caucus-goers).
+
+The visual storyboard above shows where I plan to include new/additional visualizations. The wireframe pdf document documents feedback in red. I did not find any need to make major changes to the ordering of my story - however, I may rearrange the ordering of some visualizations (specifically placing "Iowa winners often don't win nomination" infographic ahead of any "...but it is crucial to finish in the top three of Iowa" visualizations). 
+
 
 All in all, I am glad I got feedback from three people - they each had at least a few unique suggestions. The discussions also made clear which visualizations I had to tweak in order to achieve the "immediate" story impact. 
+
+
 
 [Back](https://jeffpflanz.github.io/Jeff-CMU-Repository/)
