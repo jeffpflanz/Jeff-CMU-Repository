@@ -43,7 +43,7 @@ I have compiled data from a few sources - initial Caucus data was largely scrape
 ### Wireframe and Storyboard Detail
 Making wireframes and the storyboard really helped clarify the order of the story I want to tell. My approach to wireframing was perhaps more involved than it should be - I spent a lot of time compiling, editing, and building the data I needed. At that point, I thought I needed to develop online visualization drafts to get the feedback I wanted going into next week. After making my initial visualizations, I made a wireframe in Microsoft Word - trying to replicate the top-to-bottom Shorthand page that I intend to make next week. I intentionally did not add in many captions or descriptions - as I wanted my users to approach my visualizations without context. If they were confused, I was able to take notes about what I exactly needed to clarify. 
 
-My wireframe work is located here. 
+[My wireframe work is located here.](https://jeffpflanz.github.io/Jeff-CMU-Repository/WireframeWithEdits.pdf)
 
 The above document details my draft layout of Shorthand (wireframe), many initial data visualization options, photos, a (written) storyboard, and my user research draft questions. The document also has edits/additions that I intend to incorporate (after learning in feedback sessions). 
 
