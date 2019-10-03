@@ -1,7 +1,7 @@
 # Final Project
 ## Part 1 - Project Proposal 
 
-### Summary of Proposal: “Four Tickets Out” 
+### Summary of Proposal: “Three Tickets Out” 
 Maybe it’s because I’m from Iowa, but I’ve always been very interested in presidential elections. Every four years, candidates descend on my home state to set up their political operations, eat various fried foods at the state fair, and, most importantly, pander. It is not news to anyone that the state of Iowa receives a disproportionate amount of attention from both presidential candidates and the media. Moreover, many outlets have drawn attention to how the population of Iowa is not representative of the core constituencies of both the Republican and Democratic parties. 
 
 Despite all criticism, Iowa remains “first” in line – this project seeks to explore what this means for the average voter outside the cornfields. It is true that many candidates who win Iowa fail to win the nomination of their party. The top finishers in Iowa, however, have proven to have a real shot of moving forward – while anyone outside the top four often suspend their campaigns before the voters of other states get to consider them. 
@@ -58,6 +58,7 @@ One regular observation was this - all three were not familiar with fluvial diag
 
 The visual storyboard above shows where I plan to include new/additional visualizations. The wireframe pdf document documents feedback in red. I did not find any need to make major changes to the ordering of my story - however, I may rearrange the ordering of some visualizations (specifically placing "Iowa winners often don't win nomination" infographic ahead of any "...but it is crucial to finish in the top three of Iowa" visualizations). 
 
+Unfortunately, I feel limited by technology / my coding skills. There are some things my reviewers pointed out that I would have already changed if I could. For example, two requested that I make the dots larger on the "Two White, Too Old, Too Rural" dot chart - I could not find a way to do that on Datawrapper. Moreover, there are limited ordering/coloring options for fluvial charts on RAWGraphs. I may seek help/guidance from Matt on these issues.  
 
 All in all, I am glad I got feedback from three people - they each had at least a few unique suggestions. The discussions also made clear which visualizations I had to tweak in order to achieve the "immediate" story impact. 
 
