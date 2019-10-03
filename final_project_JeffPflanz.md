@@ -43,12 +43,13 @@ I have compiled data from a few sources - initial Caucus data was largely scrape
 ### Wireframe and Storyboard Detail
 Making wireframes and the storyboard really helped clarify the order of the story I want to tell. My approach to wireframing was perhaps more involved than it should be - I spent a lot of time compiling, editing, and building the data I needed. At that point, I thought I needed to develop online visualization drafts to get the feedback I wanted going into next week. After making my initial visualizations, I made a wireframe in Microsoft Word - trying to replicate the top-to-bottom Shorthand page that I intend to make next week. I intentionally did not add in many captions or descriptions - as I wanted my users to approach my visualizations without context. If they were confused, I was able to take notes about what I exactly needed to clarify. 
 
-[My wireframe work is located here.](https://jeffpflanz.github.io/Jeff-CMU-Repository/WireframeWithEdits.pdf)
+[My wireframe / user research work is located here.](https://jeffpflanz.github.io/Jeff-CMU-Repository/WireframeWithEdits.pdf)
 
 The above document details my draft layout of Shorthand (wireframe), many initial data visualization options, photos, a (written) storyboard, and my user research draft questions. The document also has edits/additions that I intend to incorporate (after learning in feedback sessions). 
 
 My visual storyboard is below (green color shows the additional data visualizations I intend to include - also inspired by user research discussions): 
 
+[<img src="./storyboard.jpg" alt="Pic4" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
 
 ### Recap of user research and incorporation of feedback 
 
@@ -56,7 +57,7 @@ I took my project to three individuals outside of our class - let's call them K,
 
 One regular observation was this - all three were not familiar with fluvial diagrams, so there was not an "immediate" impact. Once they took time to understand what was going on, they generally liked my approach. I eventually concluded to take out a step ("Survived After Iowa") because they seemed to think that layer didn't add much useful information. K particularly focused on the need to add some missing details (like specific timeframes/dates, adding in some of the names of candidates, polls just focused on Iowa Caucus-goers).
 
-The visual storyboard above shows where I plan to include new/additional visualizations. The wireframe pdf document documents feedback in red. I did not find any need to make major changes to the ordering of my story - however, I may rearrange the ordering of some visualizations (specifically placing "Iowa winners often don't win nomination" infographic ahead of any "...but it is crucial to finish in the top three of Iowa" visualizations). 
+The visual storyboard above shows where I plan to include new/additional visualizations. The wireframe pdf document documents feedback and planned additions/changes in green. I did not find any need to make major changes to the ordering of my story - however, I may rearrange the ordering of some visualizations (specifically placing "Iowa winners often don't win nomination" infographic ahead of any "...but it is crucial to finish in the top three of Iowa" visualizations). 
 
 Unfortunately, I feel limited by technology / my coding skills. There are some things my reviewers pointed out that I would have already changed if I could. For example, two requested that I make the dots larger on the "Two White, Too Old, Too Rural" dot chart - I could not find a way to do that on Datawrapper. Moreover, there are limited ordering/coloring options for fluvial charts on RAWGraphs. I may seek help/guidance from Matt on these issues.  
 
