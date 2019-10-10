@@ -52,10 +52,6 @@ My visual storyboard is below (green color shows the additional data visualizati
 
 [<img src="./storyboard.jpg" alt="Pic5" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
 
-### Notes On Target Audience and Approach
-
-My target audience is anyone generally interested in presidential campaign / primary season – but lacks background/experience/knowledge on how the primary process works in the early states. My approach in identifying representatives to interview - I think I can safely say anyone at Heinz, a policy school, has some interest in electoral politics but won’t be “experts” about Iowa. I want to be sure to interview individuals outside our class, as I desire to get feedack from people without any background in data visualization and can reflect the thinking/concerns of the layperson target audience. 
-
 ### Recap of user research and incorporation of feedback 
 
 I took my project to three individuals outside of our class - let's call them K, P, and L. I made my wireframe in Microsoft Word so I could print out my visualizations in the order I desired. The physical copy also removed some of the bells and whistles that would otherwise be accessible (like being able to interact with the graphs, going to data points for details). 
@@ -76,5 +72,19 @@ Below are sketches of new/additional visualizations I hope to include (ran out o
 
 [<img src="./feedbacksketch.jpg" alt="Pic8" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
 
+## Part 3 - Final Deliverables 
+
+#### ["Three Tickets Out" - Final Project On Shorthand](https://carnegiemellon.shorthandstories.com/threeticketsout/index.html)
+##### ["Three Tickets Out" - Presentation On Shorthand](https://carnegiemellon.shorthandstories.com/ThreeTicketsOutPresentation/index.html)
+
+### Notes on Target Audience 
+My target audience is anyone generally interested in presidential campaign / primary season – but lacks background/experience/knowledge on how the primary process works in the early states. My approach in identifying representatives to interview - I think I can safely say anyone at Heinz, a policy school, has some interest in electoral politics but won’t be “experts” about Iowa. 
+
+My adjusted Shorthand project for the one minute "lightning" presentation is bare bones - I cut out all the text. As I only have a minute, I want to keep my audience focused on the visualizations and hope they convey the story I am trying to tell. Unfortunately, I do not have enough time to discuss everything I created and learned about in the process. I will focus on the history of the Iowa Caucuses and how the process work. I plan to leave a bit of a cliffhanger - instead of speaking about who I think will win the Caucuses this year (based on first/second choice data), I will direct any interested audience members to my full project. 
+
+### Final Reflections - Completeing the Project
+This whole process was a lot more time intensive than I imagined - but in a good way. I found myself really interested in trying to convey what Caucus night feels like and the impact it has on the presidential race. The project also provided me an opportunity to make some interesting discoveries - given the unique rules of the Caucus, I don't think I properly understood how important the "second choice" metric is on Caucus night. 
+
+I had a lot of fun making the visualizations and tried to use every platform that we were introduced to. I quickly realized that I had some limitations in my design choices - since I have little knowledge of coding in this context, I could not make all of the tweaks that I wanted to on visualizations made from online platforms (RAWgraphs, Datawrapper). Moreover, I feel like I could've made a better product on Markdown if I was not figuring out how it all worked in the last weeks of the class. While the small details I could not fix irked my perfectionist tendancies, I am proud of the final product - in addition to my GIS work, data visualization + storytelling is a real marketable skill that is already opening up opportunities I did not have before. 
 
 [Back](https://jeffpflanz.github.io/Jeff-CMU-Repository/)
