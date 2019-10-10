@@ -1,7 +1,7 @@
 # Jeff Pflanz @ Heinz College, Carnegie Mellon University
 #### Repository Page for Telling Stories with Data, Fall 2019 
 
-[<img src="./CMU.jpg" alt="cmu" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
+[<img src="./CMU.jpg" alt="cmu" width="80%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
 
 ## About Me
 
