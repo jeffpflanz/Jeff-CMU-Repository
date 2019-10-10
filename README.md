@@ -15,6 +15,7 @@ You can learn more about me and my experiences at my [LinkedIn page](https://www
 ##### ["Three Tickets Out" - Presentation On Shorthand](https://carnegiemellon.shorthandstories.com/ThreeTicketsOutPresentation/index.html)
 ##### ["Three Tickets Out" - Project Design](/final_project_JeffPflanz.md)
 -------------------------------------------
+##### [Pittsburgh Crime Dashboard (Sample)](https://public.tableau.com/views/Tutorial_15706772356110/Dashboard1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
 ##### [Alluvial Diagram - Would You Have Survived The Sinking Of The Titanic?](/titanic.md)
 ##### [Assignment 2](/dataviz2.md)
 ##### [Assignment 3: "Re-kick"](/Assignment3.md)
