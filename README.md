@@ -1,6 +1,8 @@
 # Jeff Pflanz @ Heinz College, Carnegie Mellon University
 #### Repository Page for Telling Stories with Data, Fall 2019 
 
+[<img src="./CMU.jpg" alt="cmu" width="50%">](https://jeffpflanz.github.io/Jeff-CMU-Repository)
+
 ## About Me
 
 I am currently a Master of Science candidate at Carnegie Mellon’s Heinz College of Public Policy and Management (expected graduation: December 2019). I have three years of experience working in international affairs, with expertise in data analytics, geographic information systems (GIS), program evaluation, and grant consulting/project management.
