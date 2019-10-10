@@ -14,9 +14,9 @@ You can learn more about me and my experiences at my [LinkedIn page](https://www
 ### ["Three Tickets Out" - Final Project On Shorthand](https://carnegiemellon.shorthandstories.com/threeticketsout/index.html)
 #### ["Three Tickets Out" - Presentation On Shorthand](https://carnegiemellon.shorthandstories.com/ThreeTicketsOutPresentation/index.html)
 #### ["Three Tickets Out" - Project Design](/final_project_JeffPflanz.md)
-
+-------------------------------------------
 #### [Alluvial Diagram - Would You Have Survived The Sinking Of The Titanic?](/titanic.md)
 #### [Assignment 2](/dataviz2.md)
 #### [Assignment 3: "Re-kick"](/Assignment3.md)
-
+-------------------------------------------
 #### [Works in Progress - Tableau Public Page](https://public.tableau.com/profile/jeff.p7586#!/)
