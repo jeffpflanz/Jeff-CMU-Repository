@@ -17,6 +17,7 @@ You can learn more about me and my experiences at my [LinkedIn page](https://www
 ##### ["Three Tickets Out" - Presentation On Shorthand](https://carnegiemellon.shorthandstories.com/ThreeTicketsOutPresentation/index.html)
 ##### ["Three Tickets Out" - Project Design](/final_project_JeffPflanz.md)
 -------------------------------------------
+##### ["GIS Report: Analyzing Expanded Light Rail Coverage in Pittsburgh" (Online Story Map)](https://carnegiemellon.maps.arcgis.com/apps/MapSeries/index.html?appid=f24377ebe82c4477844e3c328ef07cef)
 ##### ["GIS Report: Analyzing Expanded Light Rail Coverage in Pittsburgh" (PDF)](/GIS_Pittsburgh_LightRail_FinalReport.pdf)
 -------------------------------------------
 ##### [Pittsburgh Crime Dashboard (Sample)](https://public.tableau.com/views/Tutorial_15706772356110/Dashboard1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
